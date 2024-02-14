@@ -1,2 +1,2 @@
-# hangman.cpp
+# Hangman.cpp
 Simple hangman game in cpp
